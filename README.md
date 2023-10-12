@@ -20,6 +20,8 @@ WHEN you resize the page or view the site on various screens and devices
 THEN you are presented with a responsive layout that adapts to my viewport
 ```
 
+The following is my deployed website:
+https://ertonal.github.io/Portfolio-Page_2/
 
 ## Usage
 
